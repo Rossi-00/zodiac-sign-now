@@ -1,0 +1,15 @@
+{
+    "name": "zodiac-sign-now",
+    "version": "1.0.0",
+    "description": "zodiac-sign-now",
+    "main": "main.js",
+    "scripts": {
+      "dev": "node main.js"
+    },
+    "dependencies": {
+      "readline-sync": "^1.4.10"
+    },
+    "author": "",
+    "license": "MIT",
+    "type": "module"
+  }
